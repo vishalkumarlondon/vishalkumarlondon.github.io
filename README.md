@@ -24,12 +24,3 @@ Explaination
 
 Explaination
 
-
-[X]: 
-[X]: 
-[X]: 
-[X]: 
-[X]: 
-[X]: 
-[X]: 
-
