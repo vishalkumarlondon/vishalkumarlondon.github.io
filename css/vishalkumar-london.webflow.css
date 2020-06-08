@@ -2712,10 +2712,10 @@
 
 .div-block-14 {
   position: absolute;
-  left: 0%;
+  left: 32%;
   top: auto;
   right: auto;
-  bottom: 0%;
+  bottom: 10%;
   z-index: 10;
   padding-left: 0px;
 }
@@ -4562,7 +4562,7 @@ html.w-mod-js *[data-ix="bottom-x"] {
     max-width: 100%;
   }
   .div-block-14 {
-    position: static;
+    position: absolute;
   }
   .home-updates-section {
     padding-top: 77px;
