@@ -5816,7 +5816,7 @@ html.w-mod-js *[data-ix="bottom-x"] {
     margin-left: 0px;
   }
   .stories-tab-content._2018 {
-    display: none;
+    display: block;
   }
   .page-transition-overlay {
     display: none;
