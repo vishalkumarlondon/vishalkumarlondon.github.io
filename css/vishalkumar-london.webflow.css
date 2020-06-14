@@ -5286,6 +5286,7 @@ html.w-mod-js *[data-ix="bottom-x"] {
   }
   .white-text {
     font-family: Montserrat, sans-serif;
+    text-align: left;
   }
   .container-2 {
     height: 60px;
