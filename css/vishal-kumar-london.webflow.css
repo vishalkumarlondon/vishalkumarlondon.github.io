@@ -1899,6 +1899,10 @@ blockquote {
   padding: 100px 5%;
 }
 
+.blog-section.hide {
+  display: none;
+}
+
 .blog-card {
   height: 100%;
   padding: 24px;
