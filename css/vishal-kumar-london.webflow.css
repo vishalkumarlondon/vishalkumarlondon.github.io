@@ -1890,6 +1890,10 @@ blockquote {
   border-color: #f4f5f9;
 }
 
+.footer-link.hide {
+  display: none;
+}
+
 .footer-bottom-banner {
   padding: 16px 5%;
   background-color: #f4f5f9;
