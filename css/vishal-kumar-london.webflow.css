@@ -707,7 +707,7 @@ blockquote {
 }
 
 .hero {
-  background-image: url('../images/unfold_lowres.jpeg');
+  background-image: url('../images/unfold_lowres.webp');
   background-position: 50% 40%;
   background-size: cover;
   padding-bottom: 80px;
